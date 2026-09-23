@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<RootNamespace>lab2</RootNamespace>
+		<AssemblyName>lab2</AssemblyName>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+</Project>
